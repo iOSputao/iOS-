@@ -6,3 +6,15 @@
 六、任务
 七、队列
 八、iOS中的多线程
+九、GCD---队列
+十、死锁
+十一、GCD任务执行顺序
+十二、dispatch_barrier_async
+十三、dispatch_group_async
+十四、Dispatch Semaphore
+十五、延时函数(dispatch_after)
+十六、使用dispatch_once实现单例
+十七、NSOperationQueue的优点
+十八、NSOperation和NSOperationQueue
+十九、NSThread+runloop实现常驻线程
+二十、自旋锁与互斥锁
