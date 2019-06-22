@@ -1,0 +1,9 @@
+一、请求报文和响应报文
+二、HTTP的请求方式
+三、HTTP的特点
+四、HTTPS和HTTP的区别
+五、HTTPS的连接建立流程
+六、对称加密和非对称加密
+七、分别用C语言、python、GCDAsyncUdpSocket来实现UDP通信
+八、利用python实现Udp通信demo
+九、iOS端基于UDP的简易聊天demo
