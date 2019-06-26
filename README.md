@@ -119,6 +119,15 @@ iOS开发者的交流群：551346706 ！ 欢迎你的加入
 * 七、分别用C语言、python、GCDAsyncUdpSocket来实现UDP通信
 * 八、利用python实现Udp通信demo
 * 九、iOS端基于UDP的简易聊天demo
+* 十、UDP的特点
+* 十一、UDP的报文结构
+* 十二、UDP差错检测
+* 十三、TCP的特点和报文结构
+* 十四、三次握手
+* 十五、四次挥手
+* 十六、可靠数据传输
+* 十七、流量控制
+* 十八、拥塞控制
 
 #### [性能优化](https://github.com/iOSputao/iOS-/tree/master/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
