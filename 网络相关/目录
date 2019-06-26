@@ -7,3 +7,12 @@
 七、分别用C语言、python、GCDAsyncUdpSocket来实现UDP通信
 八、利用python实现Udp通信demo
 九、iOS端基于UDP的简易聊天demo
+十、UDP的特点
+十一、UDP的报文结构
+十二、UDP差错检测
+十三、TCP的特点和报文结构
+十四、三次握手
+十五、四次挥手
+十六、可靠数据传输
+十七、流量控制
+十八、拥塞控制
