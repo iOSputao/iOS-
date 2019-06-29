@@ -21,6 +21,20 @@ iOS面试题持续更新中！记得star一下哦！
 >* RunLoop的实现机制
 >* RunLoop与NSTimer
 >* RunLoop和线程
+>* 讲一下 Observer ？
+>* autoreleasePool 在何时被释放？
+>* 解释一下 事件响应 的过程？
+>* 解释一下 手势识别 的过程？
+>* 解释一下 GCD 在 Runloop 中的使用？
+>* 解释一下 NSTimer。
+>* AFNetworking 中如何运用 Runloop?
+>* PerformSelector 的实现原理？
+>* 利用 runloop 解释一下页面的渲染的过程？
+>* 如何使用 Runloop 实现一个常驻线程？这种线程一般有什么作用？
+>* 为什么 NSTimer 有时候不好使？
+>* PerformSelector:afterDelay:这个方法在子线程中是否起作用？为什么？怎么解决？
+>* 什么是异步绘制？
+>* 分类和类拓展的区别?
 
 #### runtime
 [（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/runtime)
@@ -211,6 +225,13 @@ iOS面试题持续更新中！记得star一下哦！
 #### 75道程序员逻辑思维面试题[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/blob/master/75%E9%81%93%E7%A8%8B%E5%BA%8F%E5%91%98%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4%E9%9D%A2%E8%AF%95.md)
 
 #### 持续更新中，记得收藏关注哦！.....
+
 更新时间：2019年6月26号（添加网络相关面试题）
+
 更新时间：2019年6月27号（完善网络相关面试题）
+
 更新时间：2019年6月29号15:09（添加内存管理方面面试题）
+
+更新时间：2019年6月29号16:10（添加Runtime相关面试题）
+
+更新时间：2019年6月29号16:29（添加Runloop相关面试题）
