@@ -89,6 +89,30 @@ iOS开发者的交流群：551346706 ！ 欢迎你的加入
 * 二、内存管理方案
 * 三、MRC（手动引用计数）和ARC(自动引用计数)
 * 四、循环引用
+* 五、讲一下 iOS 内存管理的理解
+* 六、使用自动引用计数应遵循的原则
+* 七、ARC自动内存管理的原则
+* 八、访问 __weak 修饰的变量，是否已经被注册在了 @autoreleasePool 中？为什么？
+* 九、ARC 的 retainCount 怎么存储的？
+* 十、简要说一下 @autoreleasePool 的数据结构？
+* 十一、__weak 和 _Unsafe_Unretain 的区别？
+* 十二、为什么已经有了 ARC ,但还是需要 @AutoreleasePool 的存在？
+* 十三、__weak 属性修饰的变量，如何实现在变量没有强引用后自动置为 nil ？
+* 十四、说一下对 retain,copy,assign,weak,_Unsafe_Unretain 关键字的理解。
+* 十五、ARC 在编译时做了哪些工作
+* 十六、ARC 在运行时做了哪些工作？
+* 十七、函数返回一个对象时，会对对象 autorelease 么？为什么？
+* 十八、说一下什么是 悬垂指针？什么是 野指针?
+* 十九、内存管理默认的关键字是什么？
+* 二十、内存中的5大区分别是什么？
+* 二十一、是否了解 深拷贝 和 浅拷贝 的概念，集合类深拷贝如何实现
+* 二十二、BAD_ACCESS 在什么情况下出现?
+* 二十三、讲一下 @dynamic 关键字？
+* 二十四、autoReleasePool 什么时候释放?
+* 二十五、retain、release 的实现机制？
+* 二十六、能不能简述一下 `Dealloc` 的实现机制
+* 二十七、在 MRC 下如何重写属性的 Setter 和 Getter?
+* 二十八、在 Obj-C 中，如何检测内存泄漏？你知道哪些方式？
 
 #### [算法面试题](https://github.com/iOSputao/iOS-/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
