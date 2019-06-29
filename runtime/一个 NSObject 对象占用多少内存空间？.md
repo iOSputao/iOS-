@@ -1,0 +1,34 @@
+**一个 `NSObject` 对象占用多少内存空间？**
+
+受限于内存分配的机制，一个 `NSObject`对象都会分配 `16Bit` 的内存空间。
+
+但是实际上在 64位 下，只使用了 `8bit`;
+在32位下，只使用了 `4bit`
+
+一个 NSObject 实例对象成员变量所占的大小，实际上是 8KB
+```objc
+#import <Objc/Runtime>
+Class_getInstanceSize([NSObject Class])
+```
+
+本质是
+```objc
+size_t class_getInstanceSize(Class cls)
+{
+    if (!cls) return 0;
+    return cls->alignedInstanceSize();
+}
+```
+
+获取 Obj-C 指针所指向的内存的大小，实际上是16KB
+```objc
+#import <malloc/malloc.h>
+malloc_size((__bridge const void *)obj); 
+```
+
+
+对象在分配内存空间时，会进行内存对齐，所以在 iOS 中，分配内存空间都是 16字节 的倍数。
+
+
+
+可以通过以下网址 ：openSource.apple.com/tarballs 来查看源代码。
