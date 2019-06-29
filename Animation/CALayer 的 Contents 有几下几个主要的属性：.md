@@ -1,0 +1,19 @@
+
+`CALayer`  的 `Contents` 有几下几个主要的属性：
+
+###### ContentsRect
+
+单位制（0 - 1），限制显示的范围区域
+
+###### ContentGravity
+
+类似于 ContentMode，不过不是枚举值，而是字符串
+
+###### ContentsScale
+
+决定了物理显示屏是 几@X屏
+
+###### ContentsCenter
+
+跟拉伸有关的属性
+
