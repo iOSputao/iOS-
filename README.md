@@ -6,7 +6,7 @@ iOS面试题持续更新中！记得star一下哦！
 谢谢你的打赏！
 
 #### Objective_C语言特性
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/Objective_C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/Objective_C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7)
 >* 分类
 >* 扩展
 >* 代理（Delegate）
@@ -16,7 +16,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 属性关键字
 
 #### runloop
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/Runloop)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/Runloop)
 
 >* RunLoop概念
 >* RunLoop的数据结构
@@ -40,7 +40,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 分类和类拓展的区别?
 
 #### runtime
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/runtime)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/runtime)
 
 >* objc在向一个对象发送消息时，发生了什么？
 >* objc中向一个nil对象发送消息将会发生什么？
@@ -86,7 +86,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 代码题（二）
 
 #### UI相关
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/UI%E7%9B%B8%E5%85%B3)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/UI%E7%9B%B8%E5%85%B3)
 
 >* UIView与CALayer
 >* 事件传递与视图响应链 
@@ -97,14 +97,14 @@ iOS面试题持续更新中！记得star一下哦！
 >* 离屏渲染
 
 #### Block相关面试题
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/Block%E7%9B%B8%E5%85%B3)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/Block%E7%9B%B8%E5%85%B3)
 
 >* 什么是Block？
 >* Block变量截获
 >* Block的几种形式
 
 #### 多线程
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B)
 
 >* 进程
 >*  线程
@@ -128,7 +128,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 自旋锁与互斥锁
 
 #### 内存管理
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
 
 >* 内存布局
 >* 内存管理方案
@@ -160,7 +160,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 在 Obj-C 中，如何检测内存泄漏？你知道哪些方式？
 
 #### 算法面试题
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 >* 不用中间变量,用两种方法交换A和B的值
 >* 求最大公约数
@@ -179,7 +179,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 求无序数组中的中位数
 
 #### 网络相关
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3)
 
 >* 请求报文和响应报文
 >* HTTP的请求方式
@@ -215,7 +215,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 从IPv4到IPv6的迁移
 
 #### 性能优化
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
 
 >* 基本概念
 >* 怎么检测离屏渲染：
@@ -232,7 +232,7 @@ iOS面试题持续更新中！记得star一下哦！
 >* 如何优化 APP 的电量？
 
 #### Animation
-[（戳这里跳转到Githup）](https://github.com/iOSputao/iOS-/tree/master/Animation)
+[（戳这里跳转到Github）](https://github.com/iOSputao/iOS-/tree/master/Animation)
 
 >* 简要说一下常用的动画库。
 >* 请说一下对 CALayer 的认识
